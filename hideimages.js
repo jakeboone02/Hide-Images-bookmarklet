@@ -1,0 +1,1 @@
+javascript:(function(){for(var i=0,a=document.getElementsByTagName("img"),l=a.length;i<l;i++){a[i].style.display="none"}})();
